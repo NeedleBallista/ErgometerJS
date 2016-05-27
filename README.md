@@ -155,7 +155,7 @@ first install Cordova
     npm install -g cordova
     (or the same as I used: npm install -g cordova@5.4.1 )
 
-in the command line go to dir demos\simplecodova
+in the command line go to dir demos\simplecordova
 
 add one ore more platforms which you want to test (only ios, android and windows (8.1) are possible)
 
